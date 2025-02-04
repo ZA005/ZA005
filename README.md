@@ -1,7 +1,5 @@
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding: 20px; border-radius: 10px;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=za005&theme=radical" alt="GitHub Streak" />
-
 <p>
     <img src="https://komarev.com/ghpvc/?username=za005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -93,7 +91,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px; flex-direction: column;">
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=za005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></div>
     <div><img src="https://github-readme-stats.vercel.app/api?username=za005&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></div>
-    <div></div>
+    <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=za005&theme=radical" alt="GitHub Streak" /></div>
     
     
     

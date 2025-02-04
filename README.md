@@ -90,7 +90,7 @@
     </a>
 </p>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=za005&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=za005&theme=radical" alt="GitHub Streak" />

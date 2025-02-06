@@ -1,8 +1,9 @@
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding: 20px; border-radius: 10px;">
 
+<!--
 <p>
     <img src="https://komarev.com/ghpvc/?username=za005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
